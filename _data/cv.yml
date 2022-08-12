@@ -1,0 +1,21 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Zhi Hou
+    - name: Languages
+      value: English, Chinese
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: The University of Sydney
+      year: 2020-2023
+      description:
+        - Computer Vision
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Sports, Hiking, Photography, Nunchakus, Harmonica, etc.
