@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a third year Ph.D student from The University of Sydney, under the supervision from Prof. Dacheng Tao and Dr. Baosheng Yu. Before that, I obtain my Master and Bachelor from the South China University of Technology. I was a visiting student at MMLAB of the Chinese University of Hong Kong at Shenzhen under the supervision of Prof. Xiaojiang Peng and Prof. Yu Qiao. 
+I am a third year Ph.D student from The University of Sydney, under the supervision from Prof. Dacheng Tao. Before that, I obtain my Master and Bachelor from the South China University of Technology. I was a visiting student at MMLAB of the Chinese University of Hong Kong at Shenzhen under the supervision of Prof. Xiaojiang Peng and Prof. Yu Qiao. 
 
 My research interest broadly lies in Computer Vision, including Human-Object Interaction, 3D Human, Transfer Learning, Long-Tailed and Zero-Shot Learning.
 
